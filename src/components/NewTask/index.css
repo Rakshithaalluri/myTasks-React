@@ -1,0 +1,38 @@
+.added-task-con {
+  background-color: #1a171d;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 50px;
+  list-style-type: none;
+  margin: 10px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.added-task {
+  color: #f1f5f9;
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 400;
+  margin-left: 20px;
+}
+
+.task-category {
+  color: #131213;
+  font-family: 'Roboto';
+  font-size: 12px;
+  font-weight: 500;
+  background-color: #f3aa4e;
+  border: 1px #f1f5f9 solid;
+  border-radius: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
+  height: 25px;
+  border: none;
+  outline: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 25px;
+}
